@@ -1,6 +1,6 @@
 # WA Bulk Sender — Privacy Policy
 
-_Last updated: 6 October 2026_
+_Last updated: 16 October 2026_
 
 WA Bulk Sender is a browser extension that adds a bulk-messaging panel to WhatsApp Web (web.whatsapp.com).
 
@@ -21,7 +21,7 @@ The extension does not transmit your contacts, messages or reports to the publis
 
 To run the free trial and paid plans, the extension contacts the publisher's licence service (a Google Apps Script web app backed by a private Google Sheet):
 
-- **Plan check**, when WhatsApp Web connects and a few times a day after that: your WhatsApp number, your WhatsApp display name, the extension version, and four usage counts (how many campaigns you have run and how many messages, replies and follow-ups in total). This is how the trial and your paid plan are tied to your number. No contact details or message text are included.
+- **Plan check**, when WhatsApp Web connects and a few times a day after that: your WhatsApp number, your WhatsApp display name, the extension version, and a few usage counts (how many campaigns you have run; how many messages, replies and follow-ups in total; and how many times you opened the panel, added a contact list and sent yourself a test message). This is how the trial and your paid plan are tied to your number. No contact details or message text are included.
 - **Payment form**, only when you submit it: your WhatsApp number, the plan you chose and the payment reference number you typed.
 - **Support form**, only when you submit it: your WhatsApp number, your message and, if you leave the box ticked, technical details (extension version, WhatsApp Web version, browser version, plan status).
 
